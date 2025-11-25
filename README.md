@@ -47,6 +47,8 @@ He is kind and powerful. He got his powers during his childhood incident when he
 
 Write it in the exciting style of a comic book!
 
+Create a magical storybook adventure about the Naidu family. The family includes mom, dad, and two sons named Harish and Girish. Write a fun story where Harish and Girish find a hidden door in their neighborhood that leads to a land full of friendly, talking animals. Make Harish and Girish the main heroes. Write the story in 4 short chapters with playful chapter titles. Use simple, joyful language that all ages can enjoy, and end with a happy moment where the whole Naidu family celebrates together.
+
 
 know your microbes 
 
