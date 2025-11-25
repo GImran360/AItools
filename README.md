@@ -46,3 +46,8 @@ Pretend you are a comic book writer. Invent a brand-new superhero, Hanuman, whos
 He is kind and powerful. He got his powers during his childhood incident when he was flying toward the sun to eat it, thinking it was an orange fruit.
 
 Write it in the exciting style of a comic book!
+
+
+know your microbes 
+
+Imagine you can talk to the tiny microbes living in your body. Pretend you're an interviewer asking them questions about where they live, what they eat, and how they help you. Write down what the tummy microbe and the skin microbe might say, and show how they are different.
