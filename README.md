@@ -38,4 +38,11 @@ To use a family photo from:
 
 Example Prompt: " Create a magical storybook adventure inspired by this family photo. The story should be about ‘The Mehra Family,’ who love exploring new cities. Make the kids, Aarav and Meera, the main heroes who discover a hidden portal in Jaipur leading to a world of talking animals. Write the story in 4 short chapters with creative titles. Keep the language fun and easy for children, and end the story with a happy family celebration. 
 
- 
+
+
+create your own super hero
+Pretend you are a comic book writer. Invent a brand-new superhero, Hanuman, whose special power is flying. His costume looks like a mix of gold and blue, with a sun emblem on his chest that glows whenever he takes flight.
+
+He is kind and powerful. He got his powers during his childhood incident when he was flying toward the sun to eat it, thinking it was an orange fruit.
+
+Write it in the exciting style of a comic book!
