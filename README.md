@@ -58,3 +58,19 @@ Imagine you can talk to the tiny microbes living in your body. Pretend you're an
 
 <img width="942" height="501" alt="image" src="https://github.com/user-attachments/assets/feaadc2f-9ceb-46be-bd34-0b6b9434eb80" />
 
+<img width="943" height="473" alt="image" src="https://github.com/user-attachments/assets/7a8fa898-9e1b-41d5-80f9-056eeb499c0b" />
+
+<img width="955" height="496" alt="image" src="https://github.com/user-attachments/assets/80d0eab4-2f2f-4753-a36e-af8fb13d8d9d" />
+
+<img width="794" height="474" alt="image" src="https://github.com/user-attachments/assets/d3c0637b-13fa-48ed-85a2-ec5eb87f0fd3" />
+
+<img width="806" height="477" alt="image" src="https://github.com/user-attachments/assets/f9422609-8e71-4452-8184-5f2c67737cee" />
+<img width="884" height="334" alt="image" src="https://github.com/user-attachments/assets/d264547d-f67d-4c17-aae3-c8728c080f51" />
+
+<img width="945" height="475" alt="image" src="https://github.com/user-attachments/assets/86d2c644-25a2-487f-9524-7e51228b3e2e" />
+
+<img width="890" height="477" alt="image" src="https://github.com/user-attachments/assets/f2e0e8a5-daba-46be-8ead-48b0f0f24d7e" />
+
+<img width="927" height="455" alt="image" src="https://github.com/user-attachments/assets/fef282a6-cde9-48c4-bde3-f56335f352ec" />
+<img width="895" height="457" alt="image" src="https://github.com/user-attachments/assets/8913fafd-cf5c-48f2-b31f-be4471e34dc6" />
+<img width="938" height="348" alt="image" src="https://github.com/user-attachments/assets/bb246816-874f-47b9-9ce4-33553b9f6193" />
