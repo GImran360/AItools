@@ -53,3 +53,8 @@ Create a magical storybook adventure about the Naidu family. The family includes
 know your microbes 
 
 Imagine you can talk to the tiny microbes living in your body. Pretend you're an interviewer asking them questions about where they live, what they eat, and how they help you. Write down what the tummy microbe and the skin microbe might say, and show how they are different.
+
+
+
+<img width="942" height="501" alt="image" src="https://github.com/user-attachments/assets/feaadc2f-9ceb-46be-bd34-0b6b9434eb80" />
+
