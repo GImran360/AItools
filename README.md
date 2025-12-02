@@ -88,3 +88,5 @@ Imagine you can talk to the tiny microbes living in your body. Pretend you're an
 <img width="860" height="269" alt="image" src="https://github.com/user-attachments/assets/39c81198-715e-478c-8ae3-4461dfaf1497" />
 <img width="974" height="483" alt="image" src="https://github.com/user-attachments/assets/eb7da08e-4fc8-4f80-b1fc-970d1205ae61" />
 
+<img width="805" height="310" alt="image" src="https://github.com/user-attachments/assets/b58b3297-a7b4-47f0-afe6-dd17313d9415" />
+<img width="920" height="337" alt="image" src="https://github.com/user-attachments/assets/ddef5bf3-da1e-47b0-8aa1-85e9a06c292d" />
